@@ -1,3 +1,7 @@
+0.Shomex
+37272370
+37277996
+
 1.Ismadi bin Idrus
 37277438
 
@@ -18,6 +22,7 @@
 
 7.Mohd Irwan Iswardy bin Ibrahim
 37275582
+37277994
 
 8.Mohd Jamil Bin Saleh
 37268808
@@ -36,6 +41,7 @@
 
 13.MOHD Azan bin Rajab
 27366592
+68268677 - demo
 
 14.Mohd Faiz Bin Idris 
 37273107
@@ -49,8 +55,11 @@
 17.ANGELIA ANAK TAWAN
 37263653
 
+18.Mohd Nurul Iman bin Mohd Fouzi
+37277906
 
-
+19.Mohammad Azman Zakaria
+37277871
 
 
 
