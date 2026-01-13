@@ -1,219 +1,187 @@
-0.Shomex
-37282965
+SENARAI AKAUN (FINAL – BERNOMBOR)
 
-1.Ismadi bin Idrus
-37277438
+0. Shomex
+   37282965
 
-2.Muhammad Izzuddin Bin Dhalim
-37277447
+---
 
-3.Muzlizam Bin Abd Mutalib
-37277446
+1. Ismadi bin Idrus
+   37277438
 
-4.Johny eting
-MT4/MT5:
-37248448
-68270881
-31031079
-DEMO
+2. Muhammad Izzuddin bin Dhalim
+   37277447
 
-5.Lisa Zaili Binti Asli
-MT5:
-37277459
-MT4:
-63288935
-47142944
-demo:
-68276237
-37280520
+3. Muzlizam bin Abd Mutalib
+   37277446
+   31030956
+   (TEMP)
 
-6.Tengku aswari
-37276101
-MT4:
-47121170
-DEMO:
-63342532
+4. Johny Eting
+   37248448
+   68270881
+   31031079
+   (DEMO)
 
-7.Mohd Irwan Iswardy bin Ibrahim
-37275582
-37277994
-31031233
-MT4 
+5. Lisa Zaili binti Asli
+   37277459
+   63288935
+   47142944
+   68276237
+   37280520
+   (MT5 / MT4 / DEMO)
 
-8.Mohd Jamil Bin Saleh
-37268808
+6. Tengku Aswari
+   37276101
+   47121170
+   63342532
+   (MT4 / DEMO)
 
-9.Wong Chee Chung
-37277504
+7. Mohd Irwan Iswardy bin Ibrahim
+   37275582
+   37277994
 
-10.William Yeong
-37277574
+8. Mohd Jamil bin Saleh
+   37268808
 
-11.Mohd Rafiq Bin Rudzy Shaharuddean
-37277725
-68275492
-DEMO
+9. Wong Chee Chung
+   37277504
 
-12.MOHAMAD FAIZ REZMI
-37277888
-37278985
-37279009
+10. William Yeong
+    37277574
 
-13.MOHD Azan bin Rajab
-37277909
-68268677
-DEMO
+11. Mohd Rafiq bin Rudzy Shaharuddean
+    37277725
+    68275492
+    (DEMO)
 
-14.Mohd Faiz Bin Idris 
-37273107
+12. Mohamad Faiz Rezmi
+    37277888
+    37278985
+    37279009
 
-15.Mazlan Mohamad
-37277609
+13. Mohd Azan bin Rajab
+    37277909
+    68268677
+    31030954
+    63311793
+    (REAL / DEMO / TEMP)
 
-16.Akmal Syafarie Bin Ab Malik
-37180770
-FREE VPS
+14. Mohd Faiz bin Idris
+    37273107
 
-17.ANGELIA ANAK TAWAN
-37263653
-FREE VPS
+15. Mazlan Mohamad
+    37277609
 
-18.Mohd Nurul Iman bin Mohd Fouzi
-37277906
-37279058
-FREE VPS
+16. Akmal Syafarie bin Ab Malik
+    37180770
+    (FREE VPS)
 
-19.Mohammad Azman Zakaria
-37277871
-FREE VPS
+17. Angelia Anak Tawan
+    37263653
+    (FREE VPS)
 
-20.Mohd Amyruzyman Othman
-37277853
-FREE VPS
+18. Mohd Nurul Iman bin Mohd Fouzi
+    37277906
+    37279058
+    31030639
+    (FREE VPS / TEMP)
 
-21.KAMAL BIN MOHD KASSIM
-37278075
-FREE VPS
-68275562
-DEMO
+19. Mohammad Azman Zakaria
+    37277871
+    (FREE VPS)
 
-22.MOHD NAZRI BIN IBRAHIM
-37278062
-68275576
-DEMO
+20. Mohd Amyruzyman Othman
+    37277853
+    (FREE VPS)
 
-23.Ahmad Kamal Bin Abd Aziz
-MT4/MT5:
-37278250
-37278251
-32090739
-32091643
-DEMO:
-63342578
+21. Kamal bin Mohd Kassim
+    37278075
+    68275562
+    (FREE VPS / DEMO)
 
-24.MOHD AZHAR BIN KORDI
-Real:
-37277700
-Demo:
-68275606
+22. Mohd Nazri bin Ibrahim
+    37278062
+    68275576
+    (DEMO)
 
-25.FARIZ BIN ZULPUKKAR
-37278303
-37279230
+23. Ahmad Kamal bin Abd Aziz
+    37278250
+    37278251
+    32090739
+    32091643
+    63342578
+    (DEMO)
 
-26.Muhammad Sairy bin Daris
-37278370
+24. Mohd Azhar bin Kordi
+    37277700
+    68275606
+    (REAL / DEMO)
 
-27.Mohd Hasrul Naim Bin Md Rahim
-37273447
+25. Fariz bin Zulpukkar
+    37278303
+    37279230
+    33194042
+    (TEMP)
 
-28.safeei bin saripuldin
-MT4/MT5:
-37277603
-68275570
-37280835
-31030965
-DEMO:
-63342310
+26. Muhammad Sairy bin Daris
+    37278370
 
-29.NORFAISAL BIN SABAN
-37278440
-MT4:
-31031020
-Demo:
-67175427
+27. Mohd Hasrul Naim bin Md Rahim
+    37273447
 
+28. Safeei bin Saripuldin
+    37277603
+    68275570
+    37280835
+    31030965
+    63342310
+    (DEMO)
 
-30.Azmirul Aidil bin Zaidi
-37274953
+29. Norfaisal bin Saban
+    37278440
+    31031020
+    67175427
+    (MT4 / DEMO)
 
-31.Mohamad Hakim bin Mohamad Saad
-37279021
-37279035
-37279036
-37279037
-37279038
+30. Azmirul Aidil bin Zaidi
+    37274953
 
-32.Azmirul Aidil bin Zaidi
-37274953
+31. Mohamad Hakim bin Mohamad Saad
+    37279021
+    37279035
+    37279036
+    37279037
+    37279038
 
-33.Muhammad Amin Bin Zainal Abidin
-37279133
+32. Muhammad Amin bin Zainal Abidin
+    37279133
 
-34. johar bin a rahim
-37279135
+33. Johar bin A. Rahim
+    37279135
 
-35.Mohd Sobrie Bin Ahmad Zuki
-37279252
+34. Mohd Sobrie bin Ahmad Zuki
+    37279252
+    38059416
+    63313041
+    (TEMP)
 
-36.Muhammad Syafiq Bin Zakariah
-68276433
-demo
-37279279
-real
+35. Muhammad Syafiq bin Zakariah
+    37279279
+    68276433
+    (REAL / DEMO)
 
-37.Mohd Syahidan bin Nordin 
-37279310
-real
-67175731
-demo
+36. Mohd Syahidan bin Nordin
+    37279310
+    67175731
+    31030955
+    (REAL / DEMO / TEMP)
 
-38.Faizal Bin Halim
-37275601
-37280822
-37280221
+37. Faizal bin Halim
+    37275601
+    37280822
+    37280221
 
-39.MAZWADI BIN MANSOR
-37280492
-
-
-#####################################
-temporary approval, shomex please recheck
-
-
-Mohd Nurul Iman bin Mohd Fouzi
-37277906
-37279058
-31030639
-
-Fariz Bin Zulpukkar
-33194042
-
-Mohd Syahidan bin Nordin
-37279310
-67175731
-31030955
-
-Muzlizam
-31030956
-
-Mazwadi
-31030652
-
-Mohd Azan bin Rajab
-31030954
-63311793
-
-Mohd Sobrie Bin Ahmad Zuki
-38059416
-63313041
+38. Mazwadi bin Mansor
+    37280492
+    31030652
+    (TEMP)
